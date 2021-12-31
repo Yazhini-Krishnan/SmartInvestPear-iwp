@@ -1,0 +1,10 @@
+.vertical__scrolling{
+    width: 200px;
+    height: 150px;
+    overflow-y: auto;
+}
+.self__container{
+    display:flex;
+    
+}
+
